@@ -28,4 +28,5 @@ git branch --merged
 git diff --cached
 ```
 ```
+git tag <tag_name>
 ```
