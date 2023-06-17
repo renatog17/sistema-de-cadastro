@@ -6,7 +6,7 @@ git restore <commit>
 ```
 
 ```git branch -d <branch>```
-e 
+e
 ```git push origin --delete <branch>```
 ```
 git stash
